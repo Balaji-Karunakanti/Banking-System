@@ -1,6 +1,6 @@
 A simple Banking System implemented in Java, demonstrating Encapsulation and Input Validation.
 
-📌 Features
+📌 Features 
 ✔ Create an account
 ✔ Deposit money
 ✔ Withdraw money (with validation)
